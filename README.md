@@ -1,4 +1,4 @@
-# Projeto Trivia
+# Trivia
 
 Neste projeto em grupo da trybe nós fizemos um jogo de Trivia com a api [TriviaDB](https://opentdb.com/), utilizando componentes React e Redux para manipulação do estado.
 
